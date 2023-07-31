@@ -1,8 +1,6 @@
-<h3 style="text-align: center;"> Hi, I am Purnata Ghosal 👋</h3>
----
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">via GIPHY</a></p>
-<!--
-**purnatag/purnatag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi, I am Purnata Ghosal 👋</h2>
+
+<img align="right" height="300" alt="GIF" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDN1MzlrcXlhYWFxdjR4a3NvMG0xMDBobjNwMmJ0M2toYWhic3B4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif"/>
 
 I am a ~academic~ researcher, currently working at [Subconscious Compute](https://www.subcom.tech/) as a Computational Engineer, on the _PRODUCT DESIGN_ side of things.
 I also am an artist on the side! 
@@ -14,4 +12,14 @@ I also am an artist on the side!
 - 📫 How to reach me: Email me at purnatag [at] gmail [dot] com, LinkedIn messages
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I once swam 5.5km in 5hrs, for no reason (It was a _swimathon_!!)
--->
+
+### My Tech Stack
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FFA518?style=flat-square&logo=openjdk&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
